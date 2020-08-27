@@ -1,4 +1,3 @@
 # peculiaire.github.io
-joy scharmen
 
-this is my current hello world.
+this is joy scharmen's hello world.
